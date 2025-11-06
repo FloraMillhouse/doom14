@@ -1,5 +1,5 @@
 - type: gameMapPool
   id: DeathMatchMapPool
   maps:
-  - MeteorArena
-  - dm01-entryway
+#  - MeteorArena #Doom14, removal of meteor arena because noob
+  - dm01-entryway #we're keeping this, but modifying it to have loot
