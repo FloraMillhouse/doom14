@@ -157,6 +157,7 @@
   alias:
     - deathmatch
     - dm
+    - buuurbubububuuur # Doom14
   name: death-match-title
   description: death-match-description
   maxPlayers: 100 # Doom14
